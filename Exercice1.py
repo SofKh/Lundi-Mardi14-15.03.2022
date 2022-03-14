@@ -1,4 +1,8 @@
 def fonction(n1, n2, n3, n4):
+    nombres_croissants = ""
+    if(n1<n2<n3<n4):
+        nombres_croissants
+
 
 # solution_un = if n1<n2<n3<n4 : 
 #                   Return n1, n2, n3, n4
